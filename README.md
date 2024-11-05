@@ -33,10 +33,10 @@ pnpm run build:dev
 
 ## ⚙️ Configure Sketchybar
 
-### 🌕 Using SbarLua
+### 🌕 Using [SbarLua](https://github.com/FelixKratz/SbarLua)
 
 1. Run `pnpm run build:install` to install the font and the icon map script. `icon_map.lua` will be created in `~/.config/sketchybar/helpers/`.
-2. Require the `icon_map.lua` in your `sbar.lua` file.
+2. Require the `icon_map.lua` in your configuration file.
 
     Example:
 
