@@ -46,7 +46,7 @@ pnpm run build:dev
     local chatgpt = sbar.add("item", {
     label = {
       string = app_icons["chatgpt"],
-      font = "sketchybar-app-font:Regular:18.0",
+      font = "sketchybar-app-font-bg:Regular:18.0",
     },
     })
     ```
