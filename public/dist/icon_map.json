@@ -108,6 +108,12 @@
         ]
     },
     {
+        "iconName": ":dataspell:",
+        "appNames": [
+            "DataSpell"
+        ]
+    },
+    {
         "iconName": ":default:",
         "appNames": [
             "default"
@@ -156,9 +162,21 @@
         ]
     },
     {
+        "iconName": ":font_book:",
+        "appNames": [
+            "Font Book"
+        ]
+    },
+    {
         "iconName": ":github_desktop:",
         "appNames": [
             "GitHub Desktop"
+        ]
+    },
+    {
+        "iconName": ":goodnotes:",
+        "appNames": [
+            "Goodnotes"
         ]
     },
     {
@@ -192,6 +210,18 @@
         ]
     },
     {
+        "iconName": ":karabiner_elements:",
+        "appNames": [
+            "Karabiner-Elements"
+        ]
+    },
+    {
+        "iconName": ":karabiner_eventviewer:",
+        "appNames": [
+            "Karabiner-EventViewer"
+        ]
+    },
+    {
         "iconName": ":keynote:",
         "appNames": [
             "Keynote"
@@ -207,6 +237,12 @@
         "iconName": ":kitty:",
         "appNames": [
             "kitty"
+        ]
+    },
+    {
+        "iconName": ":line:",
+        "appNames": [
+            "LINE"
         ]
     },
     {
@@ -246,6 +282,12 @@
         ]
     },
     {
+        "iconName": ":pycharm:",
+        "appNames": [
+            "PyCharm"
+        ]
+    },
+    {
         "iconName": ":qmk:",
         "appNames": [
             "QMK Toolbox"
@@ -255,6 +297,12 @@
         "iconName": ":safari:",
         "appNames": [
             "Safari"
+        ]
+    },
+    {
+        "iconName": ":sequel_ace:",
+        "appNames": [
+            "Sequel Ace"
         ]
     },
     {
@@ -297,6 +345,12 @@
         "iconName": ":ticktick:",
         "appNames": [
             "TickTick"
+        ]
+    },
+    {
+        "iconName": ":todoist:",
+        "appNames": [
+            "Todoist"
         ]
     },
     {

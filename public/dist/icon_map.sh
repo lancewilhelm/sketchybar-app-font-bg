@@ -57,6 +57,9 @@ function __icon_map() {
    "Clock")
         icon_result=":clock:"
         ;;
+   "DataSpell")
+        icon_result=":dataspell:"
+        ;;
    "default")
         icon_result=":default:"
         ;;
@@ -81,8 +84,14 @@ function __icon_map() {
    "Firefox Developer Edition")
         icon_result=":firefox:"
         ;;
+   "Font Book")
+        icon_result=":font_book:"
+        ;;
    "GitHub Desktop")
         icon_result=":github_desktop:"
+        ;;
+   "Goodnotes")
+        icon_result=":goodnotes:"
         ;;
    "Google Drive")
         icon_result=":google_drive:"
@@ -99,6 +108,12 @@ function __icon_map() {
    "iTerm2")
         icon_result=":iterm:"
         ;;
+   "Karabiner-Elements")
+        icon_result=":karabiner_elements:"
+        ;;
+   "Karabiner-EventViewer")
+        icon_result=":karabiner_eventviewer:"
+        ;;
    "Keynote")
         icon_result=":keynote:"
         ;;
@@ -107,6 +122,9 @@ function __icon_map() {
         ;;
    "kitty")
         icon_result=":kitty:"
+        ;;
+   "LINE")
+        icon_result=":line:"
         ;;
    "Mail")
         icon_result=":mail:"
@@ -126,11 +144,17 @@ function __icon_map() {
    "Preview")
         icon_result=":preview_2:"
         ;;
+   "PyCharm")
+        icon_result=":pycharm:"
+        ;;
    "QMK Toolbox")
         icon_result=":qmk:"
         ;;
    "Safari")
         icon_result=":safari:"
+        ;;
+   "Sequel Ace")
+        icon_result=":sequel_ace:"
         ;;
    "Skim")
         icon_result=":skim:"
@@ -152,6 +176,9 @@ function __icon_map() {
         ;;
    "TickTick")
         icon_result=":ticktick:"
+        ;;
+   "Todoist")
+        icon_result=":todoist:"
         ;;
    "UpNote")
         icon_result=":upnote:"
