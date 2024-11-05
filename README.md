@@ -4,7 +4,7 @@
 
 ## ✨ Features
 
-See demos:
+See demos: [Demo](https://soichiroyamane.github.io/sketchybar-app-font-bg/)
 
 - **Simple Drawings**
 - **Consistent style**
