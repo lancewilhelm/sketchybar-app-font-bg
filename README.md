@@ -14,7 +14,7 @@ See demos: [Demo](https://soichiroyamane.github.io/sketchybar-app-font-bg/)
 
 Left bar: show the open apps with the icons from this font.
 ![Example](./img/example_icons.jpg)
-These dotfiles are released here: [SoichiroYamane/XXXXXXXX]()
+These dotfiles are released here: [SoichiroYamane/dotfiles](https://github.com/SoichiroYamane/dotfiles)
 
 ## 🚀 CLI Usage
 
@@ -65,11 +65,10 @@ I am using the following process to add new icons:
    2. Right-click on the app and select "Get info"
    3. Click on the icon and press `Cmd + C`
    4. Open Preview and press `Cmd + N` to create a new image from the clipboard
-
 2. Redrawing the icon in design software. I'm using Affinity Designer 2, but any tool that can export SVGs will work.
 
     1. First, set the document size to `24x24` pixels. The shape of the box icon almost fits in the document size.
-    2. Redraw the icon on the image.
+    2. Redraw the icon on the image. For icon background, you can use the `assets/template.svg` file.
     3. Export the icon as an SVG file.
 3. Optimize the SVG file using [SVGOMG](https://jakearchibald.github.io/svgomg/).
 4. Add the icon to the `/svgs/` folder, using a snake_case name surrounded by colons and a `.svg` extension.
