@@ -1,0 +1,326 @@
+[
+    {
+        "iconName": ":activity_monitor:",
+        "appNames": [
+            "Activity Monitor"
+        ]
+    },
+    {
+        "iconName": ":adobe_acrobat_reader_dc:",
+        "appNames": [
+            "Acrobat Reader"
+        ]
+    },
+    {
+        "iconName": ":affinity_designer:",
+        "appNames": [
+            "Affinity Designer 2"
+        ]
+    },
+    {
+        "iconName": ":affinity_photo:",
+        "appNames": [
+            "Affinity Photo 2"
+        ]
+    },
+    {
+        "iconName": ":affinity_publisher:",
+        "appNames": [
+            "Affinity Publisher 2"
+        ]
+    },
+    {
+        "iconName": ":amazon_music:",
+        "appNames": [
+            "Amazon Music"
+        ]
+    },
+    {
+        "iconName": ":amazonq:",
+        "appNames": [
+            "Amazon Q"
+        ]
+    },
+    {
+        "iconName": ":anydesk:",
+        "appNames": [
+            "AnyDesk"
+        ]
+    },
+    {
+        "iconName": ":app_cleaner:",
+        "appNames": [
+            "AppCleaner"
+        ]
+    },
+    {
+        "iconName": ":app_store:",
+        "appNames": [
+            "App Store"
+        ]
+    },
+    {
+        "iconName": ":arc_wo_inside:",
+        "appNames": [
+            "Arc"
+        ]
+    },
+    {
+        "iconName": ":blender:",
+        "appNames": [
+            "Blender"
+        ]
+    },
+    {
+        "iconName": ":books:",
+        "appNames": [
+            "Books"
+        ]
+    },
+    {
+        "iconName": ":calculator:",
+        "appNames": [
+            "Calculator"
+        ]
+    },
+    {
+        "iconName": ":calendar:",
+        "appNames": [
+            "Calendar"
+        ]
+    },
+    {
+        "iconName": ":chatgpt:",
+        "appNames": [
+            "ChatGPT"
+        ]
+    },
+    {
+        "iconName": ":chrome:",
+        "appNames": [
+            "Google Chrome"
+        ]
+    },
+    {
+        "iconName": ":clock:",
+        "appNames": [
+            "Clock"
+        ]
+    },
+    {
+        "iconName": ":default:",
+        "appNames": [
+            "default"
+        ]
+    },
+    {
+        "iconName": ":discord:",
+        "appNames": [
+            "Discord"
+        ]
+    },
+    {
+        "iconName": ":docker:",
+        "appNames": [
+            "Docker Desktop"
+        ]
+    },
+    {
+        "iconName": ":easy_csv_editor:",
+        "appNames": [
+            "Easy CSV Editor"
+        ]
+    },
+    {
+        "iconName": ":facetime:",
+        "appNames": [
+            "FaceTime"
+        ]
+    },
+    {
+        "iconName": ":figma:",
+        "appNames": [
+            "Figma"
+        ]
+    },
+    {
+        "iconName": ":finder_thick:",
+        "appNames": [
+            "Finder"
+        ]
+    },
+    {
+        "iconName": ":firefox:",
+        "appNames": [
+            "Firefox Developer Edition"
+        ]
+    },
+    {
+        "iconName": ":github_desktop:",
+        "appNames": [
+            "GitHub Desktop"
+        ]
+    },
+    {
+        "iconName": ":google_drive:",
+        "appNames": [
+            "Google Drive"
+        ]
+    },
+    {
+        "iconName": ":hammerspoon:",
+        "appNames": [
+            "Hammerspoon"
+        ]
+    },
+    {
+        "iconName": ":hoppscotch:",
+        "appNames": [
+            "Hoppscotch"
+        ]
+    },
+    {
+        "iconName": ":inkscape:",
+        "appNames": [
+            "Inkscape"
+        ]
+    },
+    {
+        "iconName": ":iterm:",
+        "appNames": [
+            "iTerm2"
+        ]
+    },
+    {
+        "iconName": ":keynote:",
+        "appNames": [
+            "Keynote"
+        ]
+    },
+    {
+        "iconName": ":kindle:",
+        "appNames": [
+            "Kindle"
+        ]
+    },
+    {
+        "iconName": ":kitty:",
+        "appNames": [
+            "kitty"
+        ]
+    },
+    {
+        "iconName": ":mail:",
+        "appNames": [
+            "Mail"
+        ]
+    },
+    {
+        "iconName": ":notion:",
+        "appNames": [
+            "Notion"
+        ]
+    },
+    {
+        "iconName": ":obsidian:",
+        "appNames": [
+            "Obsidian"
+        ]
+    },
+    {
+        "iconName": ":onedrive:",
+        "appNames": [
+            "OneDrive"
+        ]
+    },
+    {
+        "iconName": ":paw:",
+        "appNames": [
+            "paw"
+        ]
+    },
+    {
+        "iconName": ":preview_2:",
+        "appNames": [
+            "Preview"
+        ]
+    },
+    {
+        "iconName": ":qmk:",
+        "appNames": [
+            "QMK Toolbox"
+        ]
+    },
+    {
+        "iconName": ":safari:",
+        "appNames": [
+            "Safari"
+        ]
+    },
+    {
+        "iconName": ":skim:",
+        "appNames": [
+            "Skim"
+        ]
+    },
+    {
+        "iconName": ":slack:",
+        "appNames": [
+            "Slack"
+        ]
+    },
+    {
+        "iconName": ":spark:",
+        "appNames": [
+            "Spark"
+        ]
+    },
+    {
+        "iconName": ":spotify:",
+        "appNames": [
+            "Spotify"
+        ]
+    },
+    {
+        "iconName": ":system_settings_simple_big:",
+        "appNames": [
+            "System Settings"
+        ]
+    },
+    {
+        "iconName": ":terminal:",
+        "appNames": [
+            "Terminal"
+        ]
+    },
+    {
+        "iconName": ":ticktick:",
+        "appNames": [
+            "TickTick"
+        ]
+    },
+    {
+        "iconName": ":upnote:",
+        "appNames": [
+            "UpNote"
+        ]
+    },
+    {
+        "iconName": ":vscode:",
+        "appNames": [
+            "Code"
+        ]
+    },
+    {
+        "iconName": ":warp:",
+        "appNames": [
+            "Warp"
+        ]
+    },
+    {
+        "iconName": ":wezterm:",
+        "appNames": [
+            "WezTerm"
+        ]
+    }
+]
