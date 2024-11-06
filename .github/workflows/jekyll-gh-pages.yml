@@ -32,6 +32,8 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Setup pnpm
+        env: 
+          SHELL: bash
         run: |
           curl -fsSL https://get.pnpm.io/install.sh | sh -
           export PNPM_HOME="$HOME/.local/share/pnpm"
