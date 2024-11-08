@@ -34,7 +34,7 @@ function __icon_map() {
         icon_result=":app_store:"
         ;;
    "Arc")
-        icon_result=":arc_wo_inside:"
+        icon_result=":arc:"
         ;;
    "Blender")
         icon_result=":blender:"

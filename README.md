@@ -44,11 +44,10 @@ pnpm run build:dev
     local app_icons = require("helpers.icon_map")
 
     local chatgpt = sbar.add("item", {
-    label = {
-      string = app_icons["ChatGPT"],
-      font = "sketchybar-app-font-bg:Regular:18.0",
-    },
-    })
+      label = {
+        string = app_icons["ChatGPT"],
+        font = "sketchybar-app-font-bg:Regular:18.0",
+      },})
     ```
 
 ## 💻 Contribution Guideline

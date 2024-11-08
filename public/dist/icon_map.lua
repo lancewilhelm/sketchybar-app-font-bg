@@ -9,7 +9,7 @@ return {
 	["AnyDesk"] = ":anydesk:",
 	["AppCleaner"] = ":app_cleaner:",
 	["App Store"] = ":app_store:",
-	["Arc"] = ":arc_wo_inside:",
+	["Arc"] = ":arc:",
 	["Blender"] = ":blender:",
 	["Books"] = ":books:",
 	["Calculator"] = ":calculator:",

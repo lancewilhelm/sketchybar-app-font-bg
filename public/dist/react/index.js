@@ -9,7 +9,6 @@ export * from './Anydesk';
 export * from './AppCleaner';
 export * from './AppStore';
 export * from './Arc';
-export * from './ArcWoInside';
 export * from './Blender';
 export * from './Books';
 export * from './Calculator';
