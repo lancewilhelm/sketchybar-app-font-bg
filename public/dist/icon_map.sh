@@ -93,8 +93,17 @@ function __icon_map() {
    "Goodnotes")
         icon_result=":goodnotes:"
         ;;
+   "Google Docs")
+        icon_result=":google_docs:"
+        ;;
    "Google Drive")
         icon_result=":google_drive:"
+        ;;
+   "Goggle Sheets")
+        icon_result=":google_sheets:"
+        ;;
+   "Google Sheets")
+        icon_result=":google_slides:"
         ;;
    "Hammerspoon")
         icon_result=":hammerspoon:"
@@ -117,14 +126,23 @@ function __icon_map() {
    "Keynote")
         icon_result=":keynote:"
         ;;
+   "KiCad")
+        icon_result=":kicad:"
+        ;;
    "Kindle")
         icon_result=":kindle:"
         ;;
    "kitty")
         icon_result=":kitty:"
         ;;
+   "LaTeXiT")
+        icon_result=":latexit:"
+        ;;
    "LINE")
         icon_result=":line:"
+        ;;
+   "LTspice")
+        icon_result=":ltspice:"
         ;;
    "Mail")
         icon_result=":mail:"
@@ -171,6 +189,12 @@ function __icon_map() {
    "System Settings")
         icon_result=":system_settings_simple_big:"
         ;;
+   "Tailescale")
+        icon_result=":tailscale:"
+        ;;
+   "TeamViewer")
+        icon_result=":teamviewer:"
+        ;;
    "Terminal")
         icon_result=":terminal:"
         ;;
@@ -182,6 +206,9 @@ function __icon_map() {
         ;;
    "UpNote")
         icon_result=":upnote:"
+        ;;
+   "VESTA")
+        icon_result=":vesta:"
         ;;
    "Code")
         icon_result=":vscode:"

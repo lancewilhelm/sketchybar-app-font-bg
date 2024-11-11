@@ -180,9 +180,27 @@
         ]
     },
     {
+        "iconName": ":google_docs:",
+        "appNames": [
+            "Google Docs"
+        ]
+    },
+    {
         "iconName": ":google_drive:",
         "appNames": [
             "Google Drive"
+        ]
+    },
+    {
+        "iconName": ":google_sheets:",
+        "appNames": [
+            "Goggle Sheets"
+        ]
+    },
+    {
+        "iconName": ":google_slides:",
+        "appNames": [
+            "Google Sheets"
         ]
     },
     {
@@ -228,6 +246,12 @@
         ]
     },
     {
+        "iconName": ":kicad:",
+        "appNames": [
+            "KiCad"
+        ]
+    },
+    {
         "iconName": ":kindle:",
         "appNames": [
             "Kindle"
@@ -240,9 +264,21 @@
         ]
     },
     {
+        "iconName": ":latexit:",
+        "appNames": [
+            "LaTeXiT"
+        ]
+    },
+    {
         "iconName": ":line:",
         "appNames": [
             "LINE"
+        ]
+    },
+    {
+        "iconName": ":ltspice:",
+        "appNames": [
+            "LTspice"
         ]
     },
     {
@@ -336,6 +372,18 @@
         ]
     },
     {
+        "iconName": ":tailscale:",
+        "appNames": [
+            "Tailescale"
+        ]
+    },
+    {
+        "iconName": ":teamviewer:",
+        "appNames": [
+            "TeamViewer"
+        ]
+    },
+    {
         "iconName": ":terminal:",
         "appNames": [
             "Terminal"
@@ -357,6 +405,12 @@
         "iconName": ":upnote:",
         "appNames": [
             "UpNote"
+        ]
+    },
+    {
+        "iconName": ":vesta:",
+        "appNames": [
+            "VESTA"
         ]
     },
     {
