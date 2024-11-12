@@ -66,6 +66,12 @@
         ]
     },
     {
+        "iconName": ":autodesk_fusion:",
+        "appNames": [
+            "Fusion"
+        ]
+    },
+    {
         "iconName": ":blender:",
         "appNames": [
             "Blender"
@@ -285,6 +291,54 @@
         "iconName": ":mail:",
         "appNames": [
             "Mail"
+        ]
+    },
+    {
+        "iconName": ":messages:",
+        "appNames": [
+            "Messages"
+        ]
+    },
+    {
+        "iconName": ":microsoft_excel:",
+        "appNames": [
+            "Microsoft Excel"
+        ]
+    },
+    {
+        "iconName": ":microsoft_onenote:",
+        "appNames": [
+            "Microsoft OneNote"
+        ]
+    },
+    {
+        "iconName": ":microsoft_outlook:",
+        "appNames": [
+            "Microsoft Outlook"
+        ]
+    },
+    {
+        "iconName": ":microsoft_powerpoint:",
+        "appNames": [
+            "Microsoft PowerPoint"
+        ]
+    },
+    {
+        "iconName": ":microsoft_remotedesktop:",
+        "appNames": [
+            "Microsoft Remote Desktop"
+        ]
+    },
+    {
+        "iconName": ":microsoft_teams:",
+        "appNames": [
+            "Microsoft Teams classic"
+        ]
+    },
+    {
+        "iconName": ":microsoft_todo:",
+        "appNames": [
+            "Microsoft To Do"
         ]
     },
     {

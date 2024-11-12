@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "sketchybar-app-font-bg",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "App font with background for sketchybar, bootstrapped using SVGs from simple-bar",
   "scripts": {
     "build": "node ./build.js",
@@ -15,7 +15,7 @@
     "svgtofont": "^4.1.1"
   },
   "svgtofont": {
-    "fontSize": "12px",
+    "fontSize": "32px",
     "fontName": "sketchybar-app-font-bg",
     "website": false,
     "css": false,
@@ -24,7 +24,7 @@
     "svgicons2svgfont": {
       "centerhorizontally": true,
       "centervertically": true,
-      "height": 16,
+      "height": 1200,
       "normalize": true,
       "preserveAspectRatio": true,
       "fixedWidth": true

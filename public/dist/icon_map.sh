@@ -36,6 +36,9 @@ function __icon_map() {
    "Arc")
         icon_result=":arc:"
         ;;
+   "Fusion")
+        icon_result=":autodesk_fusion:"
+        ;;
    "Blender")
         icon_result=":blender:"
         ;;
@@ -146,6 +149,30 @@ function __icon_map() {
         ;;
    "Mail")
         icon_result=":mail:"
+        ;;
+   "Messages")
+        icon_result=":messages:"
+        ;;
+   "Microsoft Excel")
+        icon_result=":microsoft_excel:"
+        ;;
+   "Microsoft OneNote")
+        icon_result=":microsoft_onenote:"
+        ;;
+   "Microsoft Outlook")
+        icon_result=":microsoft_outlook:"
+        ;;
+   "Microsoft PowerPoint")
+        icon_result=":microsoft_powerpoint:"
+        ;;
+   "Microsoft Remote Desktop")
+        icon_result=":microsoft_remotedesktop:"
+        ;;
+   "Microsoft Teams classic")
+        icon_result=":microsoft_teams:"
+        ;;
+   "Microsoft To Do")
+        icon_result=":microsoft_todo:"
         ;;
    "Notion")
         icon_result=":notion:"
