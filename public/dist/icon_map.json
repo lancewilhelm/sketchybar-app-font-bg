@@ -68,7 +68,8 @@
     {
         "iconName": ":autodesk_fusion:",
         "appNames": [
-            "Fusion"
+            "Fusion",
+            "Fusion Service Utility"
         ]
     },
     {

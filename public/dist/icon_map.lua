@@ -11,6 +11,7 @@ return {
 	["App Store"] = ":app_store:",
 	["Arc"] = ":arc:",
 	["Fusion"] = ":autodesk_fusion:",
+	["Fusion Service Utility"] = ":autodesk_fusion:",
 	["Blender"] = ":blender:",
 	["Books"] = ":books:",
 	["Calculator"] = ":calculator:",

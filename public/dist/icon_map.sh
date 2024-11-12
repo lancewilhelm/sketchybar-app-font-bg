@@ -36,7 +36,7 @@ function __icon_map() {
    "Arc")
         icon_result=":arc:"
         ;;
-   "Fusion")
+   "Fusion" | "Fusion Service Utility")
         icon_result=":autodesk_fusion:"
         ;;
    "Blender")
