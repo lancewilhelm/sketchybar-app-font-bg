@@ -246,6 +246,9 @@ function __icon_map() {
    "WezTerm")
         icon_result=":wezterm:"
         ;;
+   "Zen Browser" | "Zen Twilight")
+        icon_result=":zen_browser:"
+        ;;
     *)
         icon_result=":default:"
         ;;

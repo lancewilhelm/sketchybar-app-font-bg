@@ -81,4 +81,6 @@ return {
 	["Code"] = ":vscode:",
 	["Warp"] = ":warp:",
 	["WezTerm"] = ":wezterm:",
+	["Zen Browser"] = ":zen_browser:",
+	["Zen Twilight"] = ":zen_browser:",
 }

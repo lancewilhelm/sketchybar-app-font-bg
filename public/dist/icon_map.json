@@ -485,5 +485,12 @@
         "appNames": [
             "WezTerm"
         ]
+    },
+    {
+        "iconName": ":zen_browser:",
+        "appNames": [
+            "Zen Browser",
+            "Zen Twilight"
+        ]
     }
 ]
