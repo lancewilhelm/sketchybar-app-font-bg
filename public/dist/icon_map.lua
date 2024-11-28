@@ -57,6 +57,7 @@ return {
 	["Microsoft Remote Desktop"] = ":microsoft_remotedesktop:",
 	["Microsoft Teams classic"] = ":microsoft_teams:",
 	["Microsoft To Do"] = ":microsoft_todo:",
+	["Microsoft Word"] = ":microsoft_word:",
 	["Notion"] = ":notion:",
 	["Obsidian"] = ":obsidian:",
 	["OneDrive"] = ":onedrive:",
@@ -83,4 +84,5 @@ return {
 	["WezTerm"] = ":wezterm:",
 	["Zen Browser"] = ":zen_browser:",
 	["Zen Twilight"] = ":zen_browser:",
+	["Zotero"] = ":zotero:",
 }

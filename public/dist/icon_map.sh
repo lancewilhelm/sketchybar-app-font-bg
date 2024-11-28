@@ -174,6 +174,9 @@ function __icon_map() {
    "Microsoft To Do")
         icon_result=":microsoft_todo:"
         ;;
+   "Microsoft Word")
+        icon_result=":microsoft_word:"
+        ;;
    "Notion")
         icon_result=":notion:"
         ;;
@@ -248,6 +251,9 @@ function __icon_map() {
         ;;
    "Zen Browser" | "Zen Twilight")
         icon_result=":zen_browser:"
+        ;;
+   "Zotero")
+        icon_result=":zotero:"
         ;;
     *)
         icon_result=":default:"

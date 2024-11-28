@@ -343,6 +343,12 @@
         ]
     },
     {
+        "iconName": ":microsoft_word:",
+        "appNames": [
+            "Microsoft Word"
+        ]
+    },
+    {
         "iconName": ":notion:",
         "appNames": [
             "Notion"
@@ -491,6 +497,12 @@
         "appNames": [
             "Zen Browser",
             "Zen Twilight"
+        ]
+    },
+    {
+        "iconName": ":zotero:",
+        "appNames": [
+            "Zotero"
         ]
     }
 ]
